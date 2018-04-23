@@ -1,0 +1,1 @@
+It implements a mini online shopping application.

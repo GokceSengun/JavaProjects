@@ -1,0 +1,1 @@
+Its implemets mini Facebook system using GUI.

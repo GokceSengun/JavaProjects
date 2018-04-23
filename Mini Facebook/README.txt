@@ -1,0 +1,1 @@
+It implements mini Facebook system.
